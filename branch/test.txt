@@ -3,3 +3,4 @@ add a information to test branch
 switch to branch dev
 add a information to test branch dev
 switched to a new branch is quick and simple
+add a branch that name is feature2
